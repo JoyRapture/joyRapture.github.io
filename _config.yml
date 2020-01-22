@@ -2,63 +2,37 @@ url: https://joyrapture.github.io/
 baseurl: /joyRapture.github.io
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: SOHEE LEE
+email: 715sohappy@gmail.com
+description: "will be a great developer."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: SOHEE LEE
   pic: 1
-  position: Lead Designer
+  position: Web Programmer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
+    - title: instagram
       url: #
     - title: linkedin
       url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
+    - title: github
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
+  - title: instagram
     url: http://twitter.com/jekyllrb
-  - title: facebook
+  - title: linkedin
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 경기도 포천시
+  - line: 소흘읍 봉솔로 9, 11180
 
 # Build settings
 markdown: kramdown
