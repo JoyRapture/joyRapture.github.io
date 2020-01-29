@@ -39,7 +39,7 @@
 							</li>
 							<li class="table-row">
 								<div class="col col-3 headerInDiv">생년월일</div>
-								<div class="col col-4">1993년 07월 15일</div>
+								<div class="col col-4">1993.07.15</div>
 								<div class="col col-3 headerInDiv">성별</div>
 								<div class="col col-4">여</div>
 							</li>
@@ -162,7 +162,7 @@
 							</li>
 							<li class="table-row">
 								<div class="col col-10">
-									대진대학교 컴퓨터공학과<br>데이터베이스 응용 시스템 실험실
+									대진대학교 컴퓨터공학과<br>데이터베이스응용시스템 실험실
 								</div>
 								<div class="col col-4">2012.04 ~ 2016.06</div>
 								<div class="col col-5">전공 관련 프로젝트 및 세미나</div>
@@ -179,8 +179,14 @@
 				</article>
 				<div class="clear"></div>
 			</section>
-			<section class="section_resume">
-			직무능력소개서 / 자기소개서 넣기
+			<section class="section_resume part2">
+			<h2>직무능력소개서 </h2>
+      {% for post in site.cv_post %}
+        <button class="accordion">{{cv_post.title}}</button>
+        <div class="panel">
+          <p>{{cv_post.content}}</p>
+        </div>
+      {% endfor %}
 			</section>
 		</div>
 	</div>
