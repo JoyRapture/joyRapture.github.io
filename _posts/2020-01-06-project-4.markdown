@@ -1,11 +1,11 @@
 ---
-title: MORAHAJI
-subtitle: Java, Oracle
+title: Meet Me!
+subtitle: Java, MariaDB
 layout: default
-modal-id: 4
-date: 2019-12-04
+modal-id: 3
+date: 2020-01-06
 img: morahaji-desc.jpg
-thumbnail: morahaji-oracle-tb.jpg
+thumbnail: meetme-mariadb-tb.jpg
 alt: image-alt
 project-date: 2020 January
 client: semi-Project
