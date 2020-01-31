@@ -1,6 +1,6 @@
 ---
 title: MORAHAJI
-subtitle: Java, MariaDB
+subtitle: Java, Servlet, MariaDB
 layout: default
 modal-id: 1
 date: 2019-12-13

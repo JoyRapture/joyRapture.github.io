@@ -1,6 +1,6 @@
 ---
 title: Meet Me!
-subtitle: Java, MariaDB
+subtitle: Java, Spring Framework, MariaDB
 layout: default
 modal-id: 0
 date: 2020-01-06

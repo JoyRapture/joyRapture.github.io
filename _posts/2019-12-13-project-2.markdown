@@ -1,6 +1,6 @@
 ---
 title: MORAHAJI
-subtitle: Java, Oracle
+subtitle: Java, Servlet, Oracle
 layout: default
 modal-id: 2
 date: 2019-12-13
