@@ -1,0 +1,15 @@
+---
+title: Meet Me!
+subtitle: Java, MariaDB
+layout: default
+modal-id: 3
+date: 2020-01-06
+img: morahaji-desc.jpg
+thumbnail: meetme-oracle-tb.jpg
+alt: image-alt
+project-date: 2020 January
+client: semi-Project
+category: Web Development
+description: <br><a href="https://github.com/meetmeme/meetme">Github 가기</a>
+
+---
