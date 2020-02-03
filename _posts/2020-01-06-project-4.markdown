@@ -2,7 +2,7 @@
 title: Meet Me!
 subtitle: Java, Spring Framework, MariaDB
 layout: default
-modal-id: 3
+modal-id: 0
 date: 2020-01-06
 img: morahaji-desc.jpg
 thumbnail: meetme-mariadb-tb.jpg
