@@ -4,7 +4,7 @@ subtitle: Java, Servlet, MariaDB
 layout: default
 modal-id: 1
 date: 2020-01-25
-img: morahaji-desc.jpg
+img: morahaji-desc_0213.jpg
 thumbnail: morahaji-mariadb-tb.jpg
 alt: image-alt
 project-date: 2020 January
