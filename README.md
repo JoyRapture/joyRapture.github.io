@@ -1,30 +1,35 @@
-Agency Jekyll theme
-====================
-
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
-
-# How to use
-
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
+# Joy, Enjoy!
 
 
-# Demo
+### Will be a great Developer
 
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+### 😊
 
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+### ☺️
+
+### 😄
+
+### 😎
+
+
+
+
+##Portfolio
+
+* 🤔[MORAHAJI](http://joyrapture.cafe24.com/morahaji/) 📚 요즘 인싸는 이럴때 모라하지?
+
+    * [사이트 바로가기](http://joyrapture.cafe24.com/morahaji/)
+    
+    * [github-oracle](https://github.com/JoyRapture/morahaji)
+
+    * [github-mariaDB](https://github.com/JoyRapture/morahaji-mysql)
+
+        * ID : BBangBBang / PW : 000808
+
+* 🕺🏻💃🏻[Meet Me!](http://joyrapture.cafe24.com/me/) 🤝
+
+    * [사이트 바로가기](http://joyrapture.cafe24.com/me/)
+
+    * [github-oracle](https://github.com/meetmeme/meetme)
+
+        * ID : BBangBBang / PW : 000808
