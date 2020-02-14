@@ -10,6 +10,6 @@ alt: image-alt
 project-date: 2020 January
 client: semi-Project
 category: Web Development
-description: <br><a href="https://github.com/meetmeme/meetme">Github 가기</a>
+description: <a href="https://github.com/meetmeme/meetme">Github 가기 - Oracle</a><br><a href="http://joyrapture.cafe24.com/me">사이트 가기</a>
 
 ---
