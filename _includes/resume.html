@@ -8,6 +8,7 @@
                 </div>
             </div>
             <div class="row">
+                {% for member in site.people %}
                 <div>
                     <div class="team-member">
                       <a href="#resume_modal" class="portfolio-link" data-toggle="modal">
@@ -19,6 +20,7 @@
                         </ul>
                     </div>
                 </div>
+                {% endfor %}
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
